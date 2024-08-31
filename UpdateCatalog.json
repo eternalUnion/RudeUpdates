@@ -1,0 +1,16 @@
+{
+    "CurrentBranch": "ViolenceUpdate",
+    "LatestVersion": "1.0.0",
+    "Updates": {
+        "ViolenceUpdate": [
+            {
+                "Version": "1.1.0",
+                "Changelog": "Test",
+                "Url": ""
+            }
+        ]
+    },
+    "Files": {
+
+    }
+}
