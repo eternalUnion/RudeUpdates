@@ -2,20 +2,7 @@
     "CurrentBranch": "ViolenceUpdate",
     "LatestVersion": "1.0.0",
     "Updates": {
-        "ViolenceUpdate": [
-            {
-                "Version": "1.1.0",
-                "Changelog": "Test patch",
-                "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/ViolenceUpdate/1.1.0.unitypackage"
-            }
-        ]
+        "ViolenceUpdate": []
     },
-    "Files": [
-        {
-            "Path": "Assets/Editor/RudeUpdater/test files/sampleText.txt",
-            "Guid": "7ea0639d9505f314d909f9bf91787805",
-            "SHA256": "7fbd210ebec11f65a97190ef900795c4b8da3805af3f5a1b8d1d272556b292ca",
-            "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Files/sampleText.txt"
-        }
-    ]
+    "Files": []
 }
