@@ -9,7 +9,18 @@
                 "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/ViolenceUpdate/1.0.1.unitypackage",
                 "FilesToDelete": []
             }
-        ]
+        ],
+		"RevampUpdate": [
+			{
+				"Version": "1.1.0",
+				"Changelog": "- Modified Rude updater\n- Deleted a compiler generated script, preventing the project from opening properly",
+				"Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/dev/Patches/RevampUpdate/1.1.0.unitypackage",
+				"FilesToDelete": [
+					"Assets/Scripts/Assembly-CSharp/__JobReflectionRegistrationOutput__1221673671587648887.cs",
+					"Assets/Scripts/Assembly-CSharp/__JobReflectionRegistrationOutput__1221673671587648887.cs.meta"
+				]
+			}
+		]
     },
     "Files": []
 }
