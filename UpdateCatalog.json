@@ -1,6 +1,6 @@
 {
-    "CurrentBranch": "RevampUpdate",
-    "LatestVersion": "1.1.0",
+    "CurrentBranch": "FraudUpdate",
+    "LatestVersion": "1.0.1",
     "Updates": {
         "ViolenceUpdate": [
             {
@@ -20,7 +20,15 @@
 					"Assets/Scripts/Assembly-CSharp/__JobReflectionRegistrationOutput__1221673671587648887.cs.meta"
 				]
 			}
-		]
+		],
+        "FraudUpdate": [
+            {
+                "Version": "1.0.1",
+                "Changelog": "- Made Rude compatible with Linux",
+                "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.0.1.unitypackage",
+                "FilesToDelete": []
+            }
+        ]
     },
     "Files": []
 }
