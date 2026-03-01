@@ -1,6 +1,6 @@
 {
     "CurrentBranch": "FraudUpdate",
-    "LatestVersion": "1.0.2",
+    "LatestVersion": "1.1.0",
     "Updates": {
         "ViolenceUpdate": [
             {
@@ -32,6 +32,12 @@
                 "Version": "1.0.2",
                 "Changelog": "- Fixed layer 7 and 8 musics not working on built angry files",
                 "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.0.2.unitypackage",
+                "FilesToDelete": []
+            },
+            {
+                "Version": "1.1.0",
+                "Changelog": "Updated exporter:\n- Fixed vertical scroll not working\n- Bundles can now be reordered via dragging\n- Folders can be created to group bundles together\n- New bundle field: Epilepsy warning. Enable if bundle includes levels with seizure inducing elements\n- New level field: Do not hide preview image. Forces level preview to be shown even if the level was never played before\n- Angry file version updated, now compatible with the latest Angry loader\n\n\nAdded new script: IgnoreSecret\n- Add to a secret orb if the orb should not count towards the level's secrets\n\n\nModified first rooms:\n- Now includes an OnLevelStart object to attach listeners to\n",
+                "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.1.0.unitypackage",
                 "FilesToDelete": []
             }
         ]
