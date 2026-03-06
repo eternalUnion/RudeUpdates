@@ -1,6 +1,6 @@
 {
     "CurrentBranch": "FraudUpdate",
-    "LatestVersion": "1.1.1",
+    "LatestVersion": "1.2.0",
     "Updates": {
         "ViolenceUpdate": [
             {
@@ -44,6 +44,12 @@
                 "Version": "1.1.1",
                 "Changelog": "Bug fix: Exporter was pulling the online catalog from the pre-revamp catalog",
                 "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.1.1.unitypackage",
+                "FilesToDelete": []
+            },
+            {
+                "Version": "1.2.0",
+                "Changelog": "Modified scripts and prefabs for ULTRAKILL 17b2.\nShould cover most of the changes but still keep an eye on unexpected issues.",
+                "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.2.0.unitypackage",
                 "FilesToDelete": []
             }
         ]
