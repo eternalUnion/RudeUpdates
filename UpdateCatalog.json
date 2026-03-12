@@ -1,6 +1,6 @@
 {
     "CurrentBranch": "FraudUpdate",
-    "LatestVersion": "1.2.0",
+    "LatestVersion": "1.2.1",
     "Updates": {
         "ViolenceUpdate": [
             {
@@ -50,6 +50,12 @@
                 "Version": "1.2.0",
                 "Changelog": "Modified scripts and prefabs for ULTRAKILL 17b2.\nShould cover most of the changes but still keep an eye on unexpected issues.",
                 "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.2.0.unitypackage",
+                "FilesToDelete": []
+            },
+            {
+                "Version": "1.2.1",
+                "Changelog": "Added ability to not export a level to the angry file. Can be found at the bottom of a level's modification window.",
+                "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.2.1.unitypackage",
                 "FilesToDelete": []
             }
         ]
