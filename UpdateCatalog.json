@@ -1,6 +1,6 @@
 {
     "CurrentBranch": "FraudUpdate",
-    "LatestVersion": "1.2.1",
+    "LatestVersion": "1.2.2",
     "Updates": {
         "ViolenceUpdate": [
             {
@@ -56,6 +56,12 @@
                 "Version": "1.2.1",
                 "Changelog": "Added ability to not export a level to the angry file. Can be found at the bottom of a level's modification window.",
                 "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.2.1.unitypackage",
+                "FilesToDelete": []
+            },
+            {
+                "Version": "1.2.2",
+                "Changelog": "Bug fix: Fixed a bug which breaks the exporter when settings file is corrupted/bad.",
+                "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.2.2.unitypackage",
                 "FilesToDelete": []
             }
         ]
