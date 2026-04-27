@@ -1,6 +1,6 @@
 {
     "CurrentBranch": "FraudUpdate",
-    "LatestVersion": "1.2.2",
+    "LatestVersion": "1.2.3",
     "Updates": {
         "ViolenceUpdate": [
             {
@@ -62,6 +62,12 @@
                 "Version": "1.2.2",
                 "Changelog": "Bug fix: Fixed a bug which breaks the exporter when settings file is corrupted/bad.",
                 "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.2.2.unitypackage",
+                "FilesToDelete": []
+            },
+            {
+                "Version": "1.2.3",
+                "Changelog": "Bug fix: Fixed a bug where not exported levels would still have their metadata present in the angry file's data section.\nRemoved an obsolete setting from the rude exporter.",
+                "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.2.3.unitypackage",
                 "FilesToDelete": []
             }
         ]
