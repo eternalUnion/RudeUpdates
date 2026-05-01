@@ -1,6 +1,6 @@
 {
     "CurrentBranch": "FraudUpdate",
-    "LatestVersion": "1.2.3",
+    "LatestVersion": "1.3.0",
     "Updates": {
         "ViolenceUpdate": [
             {
@@ -68,6 +68,12 @@
                 "Version": "1.2.3",
                 "Changelog": "Bug fix: Fixed a bug where not exported levels would still have their metadata present in the angry file's data section.\nRemoved an obsolete setting from the rude exporter.",
                 "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.2.3.unitypackage",
+                "FilesToDelete": []
+            },
+            {
+                "Version": "1.3.0",
+                "Changelog": "- Added option to mark level as 'Does not support NoMo'\n- Added RudeGamemodeChecker, which can be used to execute an UltrakillEvent based on the current gamemode",
+                "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.3.0.unitypackage",
                 "FilesToDelete": []
             }
         ]
