@@ -1,6 +1,6 @@
 {
     "CurrentBranch": "FraudUpdate",
-    "LatestVersion": "1.3.0",
+    "LatestVersion": "1.3.1",
     "Updates": {
         "ViolenceUpdate": [
             {
@@ -74,6 +74,12 @@
                 "Version": "1.3.0",
                 "Changelog": "- Added option to mark level as 'Does not support NoMo'\n- Added RudeGamemodeChecker, which can be used to execute an UltrakillEvent based on the current gamemode",
                 "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.3.0.unitypackage",
+                "FilesToDelete": []
+            },
+            {
+                "Version": "1.3.1",
+                "Changelog": "Added new Rude wiki (WIP) to the welcome window",
+                "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.3.1.unitypackage",
                 "FilesToDelete": []
             }
         ]
