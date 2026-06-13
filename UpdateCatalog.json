@@ -1,6 +1,6 @@
 {
     "CurrentBranch": "FraudUpdate",
-    "LatestVersion": "1.3.3",
+    "LatestVersion": "1.3.4",
     "Updates": {
         "ViolenceUpdate": [
             {
@@ -92,6 +92,12 @@
                 "Version": "1.3.3",
                 "Changelog": "Added camera near/far clip settings to the first room spawner",
                 "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.3.3.unitypackage",
+                "FilesToDelete": []
+            },
+            {
+                "Version": "1.3.4",
+                "Changelog": "- Added angry parter/combiner to the RUDE toolbar for online level uploads\n- Added online level request form to the RUDE toolbar for uploading and updating online levels",
+                "Url": "https://raw.githubusercontent.com/eternalUnion/RudeUpdates/main/Patches/FraudUpdate/1.3.4.unitypackage",
                 "FilesToDelete": []
             }
         ]
